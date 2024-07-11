@@ -4,7 +4,10 @@
 ## List of the euro2024 shot maps I have made with Python
 
 
-  - Netherlands - England https://github.com/suubmad/euro2024-shots-map/assets/29547973/98219cb4-a7f1-4af2-a578-6498d8c6f900
+  - Netherlands - England
+
+  - ![hol-vs-ing](https://github.com/suubmad/euro2024-shots-map/assets/29547973/02d36d42-0f3e-4926-a850-3a7b11a979c2)
+
 
   - Spain - France https://github.com/suubmad/Passing-Networks-Tutorial https://github.com/suubmad/euro2024-shots-map/assets/29547973/95a4ef48-7779-441f-b6c6-90d192c7eceb
   
